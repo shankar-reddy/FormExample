@@ -12,6 +12,7 @@
 		181F22D11BCACA3100BD77A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181F22CF1BCACA3100BD77A8 /* Main.storyboard */; };
 		181F22D31BCACA3100BD77A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181F22D21BCACA3100BD77A8 /* Assets.xcassets */; };
 		181F22D61BCACA3100BD77A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181F22D41BCACA3100BD77A8 /* LaunchScreen.storyboard */; };
+		181F22DE1BCACB6F00BD77A8 /* 50x50.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 181F22DD1BCACB6F00BD77A8 /* 50x50.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		181F22D21BCACA3100BD77A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		181F22D51BCACA3100BD77A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		181F22D71BCACA3100BD77A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		181F22DD1BCACB6F00BD77A8 /* 50x50.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50x50.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				181F22CB1BCACA3100BD77A8 /* AppDelegate.swift */,
 				181F22CD1BCACA3100BD77A8 /* ViewController.swift */,
+				181F22DD1BCACB6F00BD77A8 /* 50x50.jpg */,
 				181F22CF1BCACA3100BD77A8 /* Main.storyboard */,
 				181F22D21BCACA3100BD77A8 /* Assets.xcassets */,
 				181F22D41BCACA3100BD77A8 /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			files = (
 				181F22D61BCACA3100BD77A8 /* LaunchScreen.storyboard in Resources */,
 				181F22D31BCACA3100BD77A8 /* Assets.xcassets in Resources */,
+				181F22DE1BCACB6F00BD77A8 /* 50x50.jpg in Resources */,
 				181F22D11BCACA3100BD77A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
